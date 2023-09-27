@@ -29,3 +29,31 @@ EX: Essa semana li Machado de Assis.
 Perífrase-Substituição de uma palavra que tem o sentindo da outra 'sua caracteristica'.\
 EX: A cidade do amor é linda.\
 __paris é considerada a cidade do amor__
+
+# Figuras de pensamento
+Utilizadas para produzir maior expressividade à comunicação, as figuras de pensamento trabalham com a combinação de ideias, pensamentos.
+
+- Prosopopeia
+- Antítese
+- Paradoxo
+- Eufmismo
+- Hiperbole
+- Ironia
+
+Prosopopeia-Ação de seres humanos em objetos ou coisas inanimadas.\
+EX: O vento suspirou essa manhã.
+
+Antítese-Sentidos opostos.\
+EX: O __ódio__ e a __amor__ andam de mãos dadas.
+
+Paradoxo-Ideais contrarias, aparentemente absurdas.\
+EX: Esse amor me __mata__ e __dá vida__.
+
+Eufemismo-Suaviza o discurso\
+EX: Ele foi para o céu.
+
+Hiperbole-Exagero do discurso\
+EX: Liguei para ele milhões de vezes essa tarde.
+
+Ironia-Efeito contrário com intenção sarcastica.\
+EX: Ele é um santinho mesmo.
