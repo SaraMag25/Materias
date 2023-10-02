@@ -21,3 +21,4 @@ No dia 2 de maio o exercitos de Napoleão invadiram Madri e em represalia eles c
 * As pilhas de corpo representam os que lutaram.
 * Tem uma figura ajoelhada que foi cercado com outros espanhois mas é imporvavel que ele tenha participado da rebelião.
 * Os soldados são anonimos e desumano.
+* As pessoas estao organizadas em passado presente e futuro.
