@@ -32,3 +32,5 @@ EX: A-produto B-produto C-reagente\
 <img src="reagente.jpg"><img/>
 
 # Velocidade estequiometria
+Nao efetiva - Particulas separadas nao formam produtos.\
+Efetiva - Particulas juntas formam produtos.
